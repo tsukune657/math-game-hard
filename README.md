@@ -17,3 +17,23 @@ Endless Math Gameは、時間制限のある数学の計算ゲームです。プ
 
 ## ライセンス
 このゲームは個人使用のみのために作成されたものです。商用利用はご遠慮ください。
+
+# Endless Math Game
+
+## Overview
+Endless Math Game is a math puzzle game with a time limit. Players are presented with a series of mathematical problems, and the goal is to answer as many questions as possible within the time limit. The problems include addition, subtraction, multiplication, division, and multiplication with fractions. The difficulty increases as you progress through the game.
+
+## How to Play
+When you start the game, a problem will appear, and you need to answer it within the time limit. Correct answers will reduce the time and present a new problem. The game ends when the time reaches zero, and your score will be displayed.
+
+## Installation Instructions
+1. Click the download link to obtain the game file (.bat).
+2. Double-click the downloaded .bat file to start the game.
+
+## Notes
+- The game runs in the Command Prompt (CMD).
+- Correct answers to mathematical problems will increase your score.
+- The game ends when the time runs out, and your score will be displayed.
+
+## License
+This game is created for personal use only. Commercial use is not allowed.
